@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="10"/>
+    <BuildModes Active="Linux x64 Debug"/>
+    <Units Count="8">
+      <Unit0>
+        <Filename Value="GUIDGenerator.ppr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="29" Y="9"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="../../Bibliotheques Interne/licensedapplications.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LicensedApplications"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="61" Y="16"/>
+        <UsageCount Value="20"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="../../Bibliotheques Interne/extendtypes.pas"/>
+        <UnitName Value="ExtendTypes"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="49"/>
+        <CursorPos X="20" Y="71"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="../databases tools/common/licensesvalidation.pas"/>
+        <UnitName Value="LicensesValidation"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="100" Y="8"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../../Bibliotheques Interne/extendapplication.pas"/>
+        <UnitName Value="ExtendApplication"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="61"/>
+        <CursorPos Y="81"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../../Bibliotheques Interne/extendstrings.pas"/>
+        <UnitName Value="ExtendStrings"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="40"/>
+        <CursorPos Y="80"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="/usr/local/codetyphon/fpcsrc/packages/rtl-objpas/src/inc/stdconvs.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="153"/>
+        <CursorPos X="51" Y="451"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="../../../Bibliotheques Interne/extendapplication.pas"/>
+        <UnitName Value="ExtendApplication"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit7>
+    </Units>
+    <JumpHistory Count="19" HistoryIndex="18">
+      <Position1>
+        <Filename Value="GUIDGenerator.ppr"/>
+        <Caret Line="78" TopLine="43"/>
+      </Position1>
+      <Position2>
+        <Filename Value="GUIDGenerator.ppr"/>
+        <Caret Line="61" TopLine="43"/>
+      </Position2>
+      <Position3>
+        <Filename Value="GUIDGenerator.ppr"/>
+        <Caret Line="62" TopLine="43"/>
+      </Position3>
+      <Position4>
+        <Filename Value="GUIDGenerator.ppr"/>
+        <Caret Line="79" TopLine="43"/>
+      </Position4>
+      <Position5>
+        <Filename Value="GUIDGenerator.ppr"/>
+        <Caret Line="80" TopLine="43"/>
+      </Position5>
+      <Position6>
+        <Filename Value="GUIDGenerator.ppr"/>
+        <Caret Line="34" TopLine="14"/>
+      </Position6>
+      <Position7>
+        <Filename Value="GUIDGenerator.ppr"/>
+        <Caret Line="35" TopLine="14"/>
+      </Position7>
+      <Position8>
+        <Filename Value="GUIDGenerator.ppr"/>
+        <Caret Line="42" TopLine="14"/>
+      </Position8>
+      <Position9>
+        <Filename Value="GUIDGenerator.ppr"/>
+        <Caret Line="49" TopLine="16"/>
+      </Position9>
+      <Position10>
+        <Filename Value="GUIDGenerator.ppr"/>
+        <Caret Line="50" Column="16" TopLine="20"/>
+      </Position10>
+      <Position11>
+        <Filename Value="GUIDGenerator.ppr"/>
+        <Caret Line="78" TopLine="43"/>
+      </Position11>
+      <Position12>
+        <Filename Value="GUIDGenerator.ppr"/>
+        <Caret Line="34" TopLine="14"/>
+      </Position12>
+      <Position13>
+        <Filename Value="GUIDGenerator.ppr"/>
+        <Caret Line="50" TopLine="17"/>
+      </Position13>
+      <Position14>
+        <Filename Value="GUIDGenerator.ppr"/>
+        <Caret Line="51" TopLine="18"/>
+      </Position14>
+      <Position15>
+        <Filename Value="GUIDGenerator.ppr"/>
+        <Caret Line="55" TopLine="22"/>
+      </Position15>
+      <Position16>
+        <Filename Value="GUIDGenerator.ppr"/>
+        <Caret Line="51" TopLine="22"/>
+      </Position16>
+      <Position17>
+        <Filename Value="GUIDGenerator.ppr"/>
+        <Caret Line="9" Column="20" TopLine="49"/>
+      </Position17>
+      <Position18>
+        <Filename Value="GUIDGenerator.ppr"/>
+        <Caret Line="16" Column="31"/>
+      </Position18>
+      <Position19>
+        <Filename Value="GUIDGenerator.ppr"/>
+        <Caret Line="16" Column="34"/>
+      </Position19>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
